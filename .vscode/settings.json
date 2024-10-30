@@ -1,0 +1,13 @@
+{   
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe",//这里为edge的地址
+    "liveServer.settings.port": 8080,//端口，可以选择空闲端口，以免冲突
+    "liveServer.settings.root": "/",
+    "liveServer.settings.CustomBrowser": "microsoft-edge",//可以选择用edge，值改为microsoft-edge
+    "liveServer.settings.NoBrowser": false,
+    "liveServer.settings.ignoreFiles": [
+        ".vscode/**",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.ts"
+    ]   
+}
